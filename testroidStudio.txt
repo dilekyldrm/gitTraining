@@ -3,3 +3,4 @@ Create TestplanPage
 Edit TestplanPage
 new line
 Add Case Page
+add run option
