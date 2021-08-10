@@ -2,3 +2,4 @@ Create Homepage
 Create TestplanPage
 Edit TestplanPage
 new line
+Add Case Page
